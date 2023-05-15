@@ -3,6 +3,8 @@
 <br/>
  
 **[EMAIL](devlsi1228@gmail.com)**
+**[VELOG](https://velog.io/@adultlee)**
+**[VLOG](https://adultlee.com/)**
 
 멋쟁이 사자처럼 9기 <sub>(2021.03 ~ 2021.12)</sub>  
 멋쟁이 사자처럼 10기 운영진 <sub>(2021.01 ~ 2022.12)</sub>   
