@@ -8,7 +8,8 @@
 
 
 <br/>
-아래는 노션 페이지에서 기술한 자료들 입니다.
+아래는 노션 페이지에서 기술한 자료들 입니다!
+
 **[포트폴리오](https://succulent-syrup-0a5.notion.site/bcd6468d7c0746d5b62c755ef10e48de)**
 **[경력기술서](https://www.notion.so/457630b07f57430bb32950539806fb90?pvs=4)**
 
