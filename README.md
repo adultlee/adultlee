@@ -1,22 +1,25 @@
 # 이성인 Seoungin Lee ✨
 ## Intro
 - 신입 프론트엔드 개발자 이성인입니다.  
-- 누군가에게 좋은 기억으로 남길 수 있는 사람이 되기를 바라며, 팀이 더 멋진 팀으로 성장하기 위한 방법을 고민하는 것에 깊은 관심이 있습니다.
+- 누군가에게 좋은 기억으로 남길 수 있는 사람이 되기를 바라며,   
+   팀이 더 멋진 팀으로 성장하기 위한 방법을 고민하는 것에 깊은 관심이 있습니다.
 
 ## Project
 ### [곰터뷰 서비스 바로가기😎](https://www.gomterview.com/)
-![2024-02-195 14 18-ezgif com-optimize](https://github.com/adultlee/adultlee/assets/77886826/c3ec78bc-7f00-4706-8eb3-52ea5447bfe7)
-
-> 제가 가장 최근까지 작업한 무료 면접 서비스 곰터뷰입니다. 재밌게 사용해주세요🤗  
+![2024-02-195 14 18-ezgif com-optimize](https://github.com/adultlee/adultlee/assets/77886826/c3ec78bc-7f00-4706-8eb3-52ea5447bfe7)  
+> 곰터뷰 서비스의 기능 중 하나인 Service Tour를 시연하는 영상입니다.  
+> 제가 가장 최근까지 작업하고 작업중인 사이드 프로젝트입니다. 재밌게 사용해주세요🤗  
 > [곰터뷰 릴리즈 노트](https://github.com/boostcampwm2023/web14-gomterview/releases)에서 자세한 업데이트 사항을 확인하실 수 있습니다.
 
 ## Skills
 > 제가 가진 경험과 기술에 대해서 소개합니다.
-> (추가 예정)
 
+소프트 스킬을 포함해서 "저"라는 사람에 대해서 궁금하시다면 -> [안녕하세요 저는 이성인입니다🤗](https://github.com/adultlee/Adultlee-Skill/tree/main/SoftSkills)   
+저의 개발 능력이 궁금하시다면? -> [저는 이렇게 기여할 수 있습니다😎](https://github.com/adultlee/Adultlee-Skill)  
+  
 
 ## Article
-> 공유와 기록에 재미를 느껴 velog에서 글을 작성하고 있습니다. 현재(2024.02) velog trending-writer top 10에 선정되었습니다.  
+> 공유와 기록에 재미를 느껴 [velog](https://velog.io/@adultlee/posts)에서 글을 작성하고 있습니다. 현재(2024.02) velog [trending-writer](https://velog.io/trending-writers) top 10에 선정되었습니다.  
 <img width="658" alt="image" src="https://github.com/adultlee/adultlee/assets/77886826/026fef8a-77a8-45fb-a65a-6ace30731379">
 
 1. 브라우저 렌더링에 대해 깊게 학습하여 정제 한 글(벨로그 트렌딩)
@@ -34,7 +37,7 @@
 - [우리는 함께 자라고 있다](https://velog.io/@adultlee/%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B3%A0-%EC%9E%88%EB%8B%A4)
 
 ### [Adultlee docs](https://adultlee-docs-adultlee.vercel.app/)  
-> 블로그로서 정제하기 전에 학습한 기억의 조각들을 모아놓기 위해 구현한 프로젝트
+> 기억의 조각들을 모아놓기 위해 진행중인 프로젝트
 
 ## Experience
 네이버 부스트캠프 <sub>(2023.07 ~ 2023.12)</sub>   
